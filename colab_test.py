@@ -1,2 +1,2 @@
 def test():
-    print("moja")
+    print("mojahoge")
